@@ -1,0 +1,71 @@
+
+📊 RÉSULTAT ALGORITHME GREEDY : 61 patients admis
+
+>>>> PLANNING Machine_A :
+CRÉNEAU         | PATIENT    | MÉDECIN
+---------------------------------------------
+08h00 - 08h30 | P_62       | Docteur_1
+08h30 - 08h50 | P_10       | Docteur_1
+08h50 - 09h00 | P_00       | Docteur_1
+09h00 - 09h30 | P_01       | Docteur_1
+09h30 - 10h00 | P_72       | Docteur_1
+11h00 - 11h20 | P_18       | Docteur_4
+11h20 - 11h40 | P_26       | Docteur_4
+11h40 - 12h00 | P_28       | Docteur_4
+12h00 - 12h20 | P_34       | Docteur_1
+12h20 - 12h40 | P_39       | Docteur_1
+12h40 - 13h00 | P_46       | Docteur_1
+13h00 - 13h20 | P_56       | Docteur_1
+13h20 - 13h40 | P_64       | Docteur_1
+13h40 - 14h00 | P_71       | Docteur_1
+14h00 - 14h20 | P_77       | Docteur_1
+14h20 - 14h40 | P_85       | Docteur_1
+14h40 - 14h50 | P_06       | Docteur_1
+14h50 - 15h00 | P_08       | Docteur_1
+15h00 - 15h10 | P_11       | Docteur_3
+15h10 - 15h20 | P_14       | Docteur_3
+15h20 - 15h30 | P_20       | Docteur_3
+15h30 - 15h40 | P_22       | Docteur_3
+15h40 - 15h50 | P_24       | Docteur_3
+15h50 - 16h00 | P_29       | Docteur_3
+16h00 - 16h10 | P_32       | Docteur_3
+16h10 - 16h20 | P_35       | Docteur_3
+16h20 - 16h30 | P_37       | Docteur_3
+16h30 - 16h40 | P_42       | Docteur_3
+16h40 - 16h50 | P_44       | Docteur_3
+
+>>>> PLANNING Machine_B :
+CRÉNEAU         | PATIENT    | MÉDECIN
+---------------------------------------------
+08h00 - 08h20 | P_03       | Docteur_2
+08h20 - 08h40 | P_04       | Docteur_2
+08h40 - 09h00 | P_13       | Docteur_2
+09h00 - 09h30 | P_15       | Docteur_2
+09h30 - 10h00 | P_78       | Docteur_2
+10h00 - 10h30 | P_84       | Docteur_1
+10h30 - 10h50 | P_05       | Docteur_1
+10h50 - 11h10 | P_17       | Docteur_3
+11h10 - 11h30 | P_19       | Docteur_3
+11h30 - 11h50 | P_27       | Docteur_3
+11h50 - 12h10 | P_31       | Docteur_3
+12h10 - 12h30 | P_38       | Docteur_2
+12h30 - 12h50 | P_41       | Docteur_2
+12h50 - 13h10 | P_55       | Docteur_2
+13h10 - 13h30 | P_61       | Docteur_2
+13h30 - 13h50 | P_65       | Docteur_2
+13h50 - 14h10 | P_75       | Docteur_2
+14h10 - 14h30 | P_80       | Docteur_2
+14h30 - 14h40 | P_02       | Docteur_2
+14h40 - 14h50 | P_07       | Docteur_2
+14h50 - 15h00 | P_09       | Docteur_2
+15h00 - 15h10 | P_12       | Docteur_4
+15h10 - 15h20 | P_16       | Docteur_4
+15h20 - 15h30 | P_21       | Docteur_4
+15h30 - 15h40 | P_23       | Docteur_4
+15h40 - 15h50 | P_25       | Docteur_4
+15h50 - 16h00 | P_30       | Docteur_4
+16h00 - 16h10 | P_33       | Docteur_4
+16h10 - 16h20 | P_36       | Docteur_4
+16h20 - 16h30 | P_40       | Docteur_4
+16h30 - 16h40 | P_43       | Docteur_4
+16h40 - 16h50 | P_45       | Docteur_4

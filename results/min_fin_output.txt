@@ -1,0 +1,82 @@
+
+✅ CAPACITÉ TOTALE : 69 PATIENTS TRAITÉS AVANT 17h00
+
+>>>> PLANNING Machine_A :
+CRÉNEAU         | PATIENT    | MÉDECIN
+---------------------------------------------
+08h00 - 08h10 | P_40       | Docteur_1
+08h10 - 08h20 | P_84       | Docteur_1
+08h20 - 08h30 | P_53       | Docteur_1
+08h30 - 08h40 | P_01       | Docteur_1
+09h00 - 09h10 | P_87       | Docteur_3
+09h10 - 09h20 | P_70       | Docteur_3
+09h20 - 09h30 | P_48       | Docteur_2
+09h30 - 09h50 | P_41       | Docteur_2
+09h50 - 10h00 | P_00       | Docteur_1
+10h00 - 10h20 | P_73       | Docteur_3
+10h20 - 10h30 | P_39       | Docteur_1
+10h30 - 10h40 | P_86       | Docteur_1
+10h40 - 11h00 | P_68       | Docteur_1
+11h00 - 11h10 | P_59       | Docteur_4
+11h10 - 11h20 | P_15       | Docteur_4
+11h20 - 11h30 | P_21       | Docteur_3
+11h30 - 11h40 | P_26       | Docteur_4
+11h40 - 11h50 | P_47       | Docteur_4
+11h50 - 12h00 | P_32       | Docteur_3
+12h00 - 12h30 | P_42       | Docteur_1
+12h30 - 12h40 | P_65       | Docteur_1
+12h40 - 13h05 | P_67       | Docteur_1
+13h05 - 13h15 | P_61       | Docteur_3
+13h15 - 13h25 | P_71       | Docteur_2
+13h30 - 13h50 | P_51       | Docteur_1
+13h50 - 14h10 | P_64       | Docteur_1
+14h10 - 14h20 | P_88       | Docteur_1
+14h20 - 14h30 | P_75       | Docteur_4
+14h30 - 14h50 | P_79       | Docteur_1
+14h50 - 15h00 | P_31       | Docteur_1
+15h00 - 15h10 | P_33       | Docteur_4
+15h10 - 15h20 | P_74       | Docteur_4
+15h20 - 15h40 | P_19       | Docteur_2
+15h40 - 15h50 | P_17       | Docteur_2
+15h50 - 16h00 | P_56       | Docteur_3
+16h00 - 16h30 | P_58       | Docteur_4
+16h30 - 16h40 | P_85       | Docteur_4
+16h40 - 16h50 | P_54       | Docteur_4
+16h50 - 17h00 | P_06       | Docteur_4
+
+>>>> PLANNING Machine_B :
+CRÉNEAU         | PATIENT    | MÉDECIN
+---------------------------------------------
+08h40 - 08h50 | P_36       | Docteur_1
+08h50 - 09h15 | P_57       | Docteur_1
+09h15 - 09h50 | P_04       | Docteur_1
+09h50 - 10h10 | P_37       | Docteur_2
+10h10 - 10h20 | P_28       | Docteur_1
+10h20 - 10h30 | P_07       | Docteur_3
+10h30 - 10h40 | P_20       | Docteur_3
+10h40 - 10h50 | P_29       | Docteur_4
+10h50 - 11h00 | P_30       | Docteur_4
+11h00 - 11h20 | P_46       | Docteur_3
+11h20 - 11h30 | P_22       | Docteur_2
+11h30 - 11h40 | P_34       | Docteur_2
+11h40 - 11h50 | P_78       | Docteur_3
+11h50 - 12h00 | P_24       | Docteur_2
+12h00 - 12h20 | P_66       | Docteur_4
+12h20 - 12h30 | P_50       | Docteur_4
+12h30 - 13h00 | P_81       | Docteur_4
+13h00 - 13h10 | P_25       | Docteur_2
+13h10 - 13h20 | P_03       | Docteur_1
+13h20 - 13h30 | P_80       | Docteur_1
+13h30 - 13h50 | P_62       | Docteur_2
+13h50 - 14h00 | P_72       | Docteur_3
+14h00 - 14h10 | P_35       | Docteur_4
+14h10 - 14h30 | P_08       | Docteur_3
+14h30 - 14h50 | P_76       | Docteur_3
+14h50 - 15h20 | P_02       | Docteur_2
+15h20 - 15h30 | P_13       | Docteur_3
+15h30 - 15h40 | P_11       | Docteur_4
+15h40 - 15h50 | P_38       | Docteur_4
+15h50 - 16h00 | P_63       | Docteur_4
+
+============================================================
+
